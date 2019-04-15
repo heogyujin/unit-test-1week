@@ -12,5 +12,7 @@ public class UpperCaseCounter {
             }
         }
         return numberOfUpperCaseChars;
+
+        // 주석
     }
 }
